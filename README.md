@@ -7,6 +7,8 @@
 
 <i>This project involves designing and modelling of a Self balancing Inverted pendulum on cart using MATLAB/Simulink, Using a popular library called "SIMSCAPE". Inverted Pendulum is a system very known and used in Academia to teach Control Theory to have fundamental knowlegde.</i>
 
+---
+
 ![](InvertedPend.png)
 
 ---
