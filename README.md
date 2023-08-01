@@ -17,7 +17,7 @@ This project involves designing and modelling of a Self balancing Inverted pendu
 * [Demo](#Demo)
 * [Reference](#Reference)
 
-# Project-details
+# Project details
 
 # How to run the session
 
