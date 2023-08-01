@@ -2,10 +2,10 @@
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
 </a>
 
-<h1 align="center">SELF BALANCING INVERTED PENDULUM</h1>
-<div align="center">
+<div align="center"><h1 align="center">SELF BALANCING INVERTED PENDULUM</h1></div>
 
-This project involves designing and modelling of a Self balancing Inverted pendulum on cart using MATLAB/Simulink, Using a popular library called "SIMSCAPE".
+
+<i>This project involves designing and modelling of a Self balancing Inverted pendulum on cart using MATLAB/Simulink, Using a popular library called "SIMSCAPE".</i>
 
 
 
