@@ -22,7 +22,7 @@
 
 # Project details
 
-This project demonstrate the design and an simulation of an inverted pendulum on cart whch can balance itself due to external disturbance. The approach used here is by using the blocks of simscape library which consist of actual components representing the real world.
+This project demonstrate the design and an simulation of an inverted pendulum on cart whch can balance itself due to external disturbance. The approach used here is by using the blocks of [simscape](https://www.mathworks.com/products/simscape.html) library in [MATLAB/Simulink](https://www.mathworks.com/products/simulink.html), which consist of actual components representing the real world.
 
 # How to run the session
 
