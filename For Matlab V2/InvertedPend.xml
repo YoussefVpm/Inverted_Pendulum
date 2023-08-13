@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="07/23/23||11:45:08" using="Simscape Multibody Link Version 7.0" from="SolidWorks 28.4.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1" uid="Assem1" version="3528">
+<AssemblyFile name="Assem1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="3764N107_High-Strength Gt Timing Belt Pulley-1" uid="3764N107_High-Strength Gt Timing Belt Pulley-1" entityUid="3764N107_High-Strength Gt Timing Belt Pulley*:*3764N107">
+<Transform>
+<Rotation>-3.6959228384603552e-16 1.0749811572703014e-15 1 0.98669925114743284 -0.1625564141616547 5.3942151191795872e-16 0.1625564141616547 0.98669925114743284 -1.0006035064681598e-15</Rotation>
+<Translation>0.15391412490952663 0.24033787058507239 0.32243258786051243</Translation>
+</Transform>
+</Instance>
+<Instance name="Body Assembly-1" uid="Body Assembly-1" grounded="true" entityUid="Body Assembly" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="End motor Assembly-1" uid="End motor Assembly-1" grounded="true" entityUid="End motor Assembly" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 -2.0311150894514185e-07</Translation>
+</Transform>
+<Instance name="hex thin nut chamfered gradeab_iso1-12" uid="hex thin nut chamfered gradeab_iso1-12" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N">
+<Transform>
+<Rotation>1 1.1934897514720433e-15 0 0 -1.2203350544179614e-16 -1 -1.1934897514720433e-15 1 -1.2203350544179713e-16</Rotation>
+<Translation>0.15854912490952663 0.20713787058507238 0.33093279097202138</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-13" uid="socket head cap screw_iso-13" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>0 0.53183732235417636 0.84684654014239191 -1 0 0 0 -0.84684654014239191 0.53183732235417636</Rotation>
+<Translation>0.15854912490952663 0.2203378705850724 0.31393279097202137</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-14" uid="socket head cap screw_iso-14" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>0 0.53183732235417636 0.84684654014239191 -1 0 0 0 -0.84684654014239191 0.53183732235417636</Rotation>
+<Translation>0.18854912490952666 0.2203378705850724 0.33093279097202133</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-15" uid="socket head cap screw_iso-15" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>0 0.53183732235417636 0.84684654014239191 -1 0 0 0 -0.84684654014239191 0.53183732235417636</Rotation>
+<Translation>0.18854912490952663 0.2203378705850724 0.31393279097202137</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-10" uid="hex thin nut chamfered gradeab_iso1-10" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N">
+<Transform>
+<Rotation>1 1.1934897514720433e-15 0 0 -1.2203350544179614e-16 -1 -1.1934897514720433e-15 1 -1.2203350544179713e-16</Rotation>
+<Translation>0.18854912490952663 0.20713787058507238 0.33093279097202138</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-16" uid="socket head cap screw_iso-16" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N">
+<Transform>
+<Rotation>1 8.4388600904552467e-16 -5.3327855390995419e-16 -8.8377577950221083e-16 0.499999999999998 -0.86602540378443982 -4.6418744477671383e-16 0.86602540378443982 0.499999999999998</Rotation>
+<Translation>0.16394912490952665 0.26076138998639298 0.33018286351184606</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-11" uid="hex thin nut chamfered gradeab_iso1-11" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N">
+<Transform>
+<Rotation>1 1.1934897514720433e-15 0 0 -1.2203350544179614e-16 -1 -1.1934897514720433e-15 1 -1.2203350544179713e-16</Rotation>
+<Translation>0.15854912490952663 0.20713787058507238 0.31393279097202137</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-10" uid="socket head cap screw_iso-10" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.11444912490952663 0.22303787058507238 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-7" uid="hex thin nut chamfered gradeab_iso1-7" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>0.99999999999999978 9.1593399531575415e-16 0 0 0 -1 -9.1593399531575415e-16 0.99999999999999978 0</Rotation>
+<Translation>0.15644912490952664 0.20783787058507236 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-1" uid="hex thin nut chamfered gradeab_iso1-1" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>1.0000000000000002 1.2212453270876722e-15 9.1051490788786889e-15 9.1051490788786826e-15 0 -1 -1.2212453270876722e-15 1.0000000000000002 0</Rotation>
+<Translation>0.11444912490952555 0.20783787058507344 0.29493279097202107</Translation>
+</Transform>
+</Instance>
+<Instance name="stand1-2" uid="stand1-2" grounded="true" entityUid="stand1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.15144912490952664 0.20633787058507236 0.33793293605167063</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-8" uid="socket head cap screw_iso-8" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 0.99266912162086918 0.12086362141046486 -1 0 0 0 -0.12086362141046486 0.99266912162086918</Rotation>
+<Translation>0.18844912490952664 0.22303787058507238 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="stand1-1" uid="stand1-1" grounded="true" entityUid="stand1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.15144912490952664 0.20633787058507236 0.33793279097202139</Translation>
+</Transform>
+</Instance>
+<Instance name="motor mount-1" uid="motor mount-1" entityUid="motor mount*:*Default">
+<Transform>
+<Rotation>9.9746599868666408e-16 0 -1 0 1 0 1 0 9.9746599868666408e-16</Rotation>
+<Translation>0.17154912490952665 0.24733787058507239 0.32243279097202138</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-7" uid="socket head cap screw_iso-7" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.16394912490952665 0.2607612643437312 0.31468279097202145</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-9" uid="socket head cap screw_iso-9" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.15644912490952664 0.22303787058507238 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-11" uid="socket head cap screw_iso-11" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 0.95593389323018563 0.29358200178788307 -1 0 0 0 -0.29358200178788307 0.95593389323018563</Rotation>
+<Translation>0.14644912490952661 0.22303787058507238 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-12" uid="socket head cap screw_iso-12" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>0 0.53183732235417636 0.84684654014239191 -1 0 0 0 -0.84684654014239191 0.53183732235417636</Rotation>
+<Translation>0.15854912490952666 0.2203378705850724 0.33093279097202138</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-6" uid="hex thin nut chamfered gradeab_iso1-6" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N">
+<Transform>
+<Rotation>1 1.1934897514720433e-15 0 0 -1.2203350544179614e-16 -1 -1.1934897514720433e-15 1 -1.2203350544179713e-16</Rotation>
+<Translation>0.18854912490952663 0.20713787058507238 0.31393279097202137</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-8" uid="hex thin nut chamfered gradeab_iso1-8" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>0.99999999999999989 4.7184478546569153e-16 0 0 0 -1 -4.7184478546569153e-16 0.99999999999999989 0</Rotation>
+<Translation>0.18844912490952664 0.20783787058507236 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-9" uid="hex thin nut chamfered gradeab_iso1-9" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>1 -1.1102230246251563e-16 0 0 0 -1 1.1102230246251563e-16 1 0</Rotation>
+<Translation>0.14644912490952663 0.20783787058507236 0.29493279097202141</Translation>
+</Transform>
+</Instance>
+<Instance name="37d-gearmotor-50-70-encoder.step-1" uid="37d-gearmotor-50-70-encoder.step-1" entityUid="37d-gearmotor-50-70-encoder.step*:*Default">
+<Transform>
+<Rotation>-2.5326962749261384e-15 0 -1 0 1 0 1 0 -2.5326962749261384e-15</Rotation>
+<Translation>0.1914741249095267 0.24733787058507239 0.30250779097202146</Translation>
+</Transform>
+</Instance>
+<Instance name="motor mount-2" uid="motor mount-2" entityUid="motor mount*:*Default">
+<Transform>
+<Rotation>9.9746599868666408e-16 0 -1 0 1 0 1 0 9.9746599868666408e-16</Rotation>
+<Translation>0.17154912490952665 0.24733787058507239 0.32243293605167062</Translation>
+</Transform>
+</Instance>
+<Instance name="SK8 SC8UU LINEAR RAIL ORIGINAL-2" uid="SK8 SC8UU LINEAR RAIL ORIGINAL-2" entityUid="SK8 SC8UU LINEAR RAIL ORIGINAL*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.17244912490952663 0.22863787058507237 0.2879827909720214</Translation>
+</Transform>
+</Instance>
+<Instance name="SK8 SC8UU LINEAR RAIL ORIGINAL-1" uid="SK8 SC8UU LINEAR RAIL ORIGINAL-1" entityUid="SK8 SC8UU LINEAR RAIL ORIGINAL*:*Valor predeterminado">
+<Transform>
+<Rotation>-0.99999999999999989 0 0 0 1 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.13044912490952665 0.22863787058507237 0.30188279097202142</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-18" uid="socket head cap screw_iso-18" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N">
+<Transform>
+<Rotation>1 0 -1.9949319973733278e-15 0 -1 6.9829626776862667e-15 -1.9949319973733286e-15 -6.9829626776862667e-15 -1</Rotation>
+<Translation>0.16394912490952665 0.23391447682641359 0.33018308113131972</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-20" uid="socket head cap screw_iso-20" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N">
+<Transform>
+<Rotation>1 -8.8377577950220343e-16 -4.641874447767021e-16 8.4388600904551826e-16 0.5000000000000101 0.86602540378443282 -5.3327855390994187e-16 -0.86602540378443282 0.5000000000000101</Rotation>
+<Translation>0.16394912490952665 0.24733774494241079 0.30693286351184612</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-19" uid="socket head cap screw_iso-19" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N">
+<Transform>
+<Rotation>1 -9.2366554995890004e-16 -1.4616534434633679e-15 8.0399623858884236e-16 -0.49999999999999195 0.86602540378444326 -1.5307445525966085e-15 -0.86602540378444326 -0.49999999999999195</Rotation>
+<Translation>0.16394912490952662 0.23391435118375198 0.31468300859149495</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-17" uid="socket head cap screw_iso-17" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N">
+<Transform>
+<Rotation>1 8.0399623858883506e-16 -1.5307445525966205e-15 -9.2366554995889353e-16 -0.50000000000000411 -0.86602540378443649 -1.46165344346338e-15 0.86602540378443649 -0.50000000000000411</Rotation>
+<Translation>0.16394912490952671 0.24733799622773411 0.33793300859149522</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="8mm Rod-2" uid="8mm Rod-2" entityUid="8mm Rod*:*Default">
+<Transform>
+<Rotation>-0.88349619744638497 -0.46843833009028868 0 0.46843833009028868 -0.88349619744638497 0 0 0 1</Rotation>
+<Translation>0.13044912490952665 0.23234787058507236 0.0018825878605124645</Translation>
+</Transform>
+</Instance>
+<Instance name="End 1 Assembly-1" uid="End 1 Assembly-1" grounded="true" entityUid="End 1 Assembly" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>1.8041124150158794e-15 -1.3600232051658168e-15 -2.1761947384749125e-07</Translation>
+</Transform>
+<Instance name="socket head cap screw_iso-2" uid="socket head cap screw_iso-2" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.15644912490952667 0.22303787058507235 0.0088328054799865583</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-6" uid="socket head cap screw_iso-6" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.16894912824243732 0.22033787058507234 -0.0081671983430580911</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-7" uid="hex thin nut chamfered gradeab_iso1-7" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>1.960535808415464e-07 -2.2666352495845121e-16 0.99999999999998079 0 1 2.2666351380766882e-16 -0.99999999999998079 0 1.960535808415464e-07</Rotation>
+<Translation>0.16564912824243647 0.24033787058507239 -0.0081671989900337551</Translation>
+</Transform>
+</Instance>
+<Instance name="SK8 SC8UU LINEAR RAIL ORIGINAL-2" uid="SK8 SC8UU LINEAR RAIL ORIGINAL-2" entityUid="SK8 SC8UU LINEAR RAIL ORIGINAL*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.1724491249095273 0.2286378705850719 0.0018828054799863319</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-1" uid="socket head cap screw_iso-1" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 30 - 22N">
+<Transform>
+<Rotation>0.9999999999999809 -2.2666433011323781e-16 -1.960535809640109e-07 2.2666351387623892e-16 1 -4.1633363648129912e-15 1.960535809640109e-07 4.1633363207590082e-15 0.9999999999999809</Rotation>
+<Translation>0.13494912824243704 0.24033787058507242 -0.0081672050088786533</Translation>
+</Transform>
+</Instance>
+<Instance name="pulley stand-1" uid="pulley stand-1" entityUid="pulley stand*:*Default">
+<Transform>
+<Rotation>0.9999999999999809 -2.2666351862613797e-16 -1.9605358096401071e-07 2.2666351387623882e-16 1 0 1.9605358096401071e-07 0 0.9999999999999809</Rotation>
+<Translation>0.15144912971283858 0.21233787058507239 -0.015667201773995429</Translation>
+</Transform>
+</Instance>
+<Instance name="stand2-1" uid="stand2-1" entityUid="stand2*:*Default">
+<Transform>
+<Rotation>-0.99999999999998079 -3.4355316447954133e-16 1.9605358362967269e-07 -3.4355314664983292e-16 1 0 -1.9605358362967269e-07 0 -0.99999999999998079</Rotation>
+<Translation>0.15144912696808849 0.20633787058507239 -0.0016672017739953074</Translation>
+</Transform>
+</Instance>
+<Instance name="SK8 SC8UU LINEAR RAIL ORIGINAL-1" uid="SK8 SC8UU LINEAR RAIL ORIGINAL-1" entityUid="SK8 SC8UU LINEAR RAIL ORIGINAL*:*Valor predeterminado">
+<Transform>
+<Rotation>-1.0000000000000002 0 0 0 1.0000000000000002 0 0 0 -1</Rotation>
+<Translation>0.13044912490952668 0.22863787058507234 0.015782790972021409</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-2" uid="hex thin nut chamfered gradeab_iso1-2" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>0.9999999999999809 -1.9605358396165513e-07 3.4355315638157165e-16 3.4355315163167694e-16 0 -1 1.9605358396165513e-07 0.9999999999999809 0</Rotation>
+<Translation>0.18844912490952509 0.20783787058507242 0.0088328054799872782</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-6" uid="hex thin nut chamfered gradeab_iso1-6" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N">
+<Transform>
+<Rotation>0.9999999999999809 -1.9605358548821184e-07 3.4355315638156899e-16 3.4355315163167413e-16 0 -1 1.9605358548821184e-07 0.9999999999999809 0</Rotation>
+<Translation>0.16894912824243644 0.20713787058507235 -0.0081671983430574406</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-5" uid="hex thin nut chamfered gradeab_iso1-5" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N">
+<Transform>
+<Rotation>0.9999999999999809 -1.9605358225970812e-07 3.435531563815643e-16 3.435531516316697e-16 0 -1 1.9605358225970812e-07 0.9999999999999809 0</Rotation>
+<Translation>0.13394912824243707 0.20713787058507235 -0.008167205204932906</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-3" uid="hex thin nut chamfered gradeab_iso1-3" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>0.9999999999999809 -1.9605358360083264e-07 3.435531563815578e-16 3.4355315163166304e-16 0 -1 1.9605358360083264e-07 0.9999999999999809 0</Rotation>
+<Translation>0.14644912490952594 0.20783787058507242 0.0088327972457364276</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-1" uid="hex thin nut chamfered gradeab_iso1-1" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>0.9999999999999809 -1.960535839317105e-07 3.4355315638156258e-16 3.4355315163166787e-16 0 -1 1.960535839317105e-07 0.9999999999999809 0</Rotation>
+<Translation>0.11444912490952656 0.20783787058507239 0.0088327909720220046</Translation>
+</Transform>
+</Instance>
+<Instance name="hex thin nut chamfered gradeab_iso1-4" uid="hex thin nut chamfered gradeab_iso1-4" entityUid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N">
+<Transform>
+<Rotation>0.9999999999999809 -1.960535837673661e-07 3.4355315638156066e-16 3.435531516316659e-16 0 -1 1.960535837673661e-07 0.9999999999999809 0</Rotation>
+<Translation>0.15644912490952576 0.20783787058507242 0.0088327992062722967</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-3" uid="socket head cap screw_iso-3" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.11444912490952626 0.22303787058507235 0.0088327909720213506</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-4" uid="socket head cap screw_iso-4" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.1464491249095263 0.22303787058507232 0.0088327909720213055</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-5" uid="socket head cap screw_iso-5" entityUid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.18844912490952667 0.22303787058507238 0.0088328054799865774</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-7" uid="socket head cap screw_iso-7" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 0.99999999999999967</Rotation>
+<Translation>0.13394912824243801 0.22033787058507237 -0.0081672052049335236</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="8mm Rod-1" uid="8mm Rod-1" entityUid="8mm Rod*:*Default">
+<Transform>
+<Rotation>0.44255566490694348 0.8967410347802609 0 -0.8967410347802609 0.44255566490694348 0 0 0 1</Rotation>
+<Translation>0.17244912490952663 0.23234787058507236 0.0018825878605125061</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1-1" uid="Belt1-1-1" entityUid="Belt1-1*:*Default">
+<Transform>
+<Rotation>1.9605359002916608e-07 0 0.99999999999998102 0 1 0 -0.99999999999998102 0 1.9605359002916608e-07</Rotation>
+<Translation>0.15144912490952636 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Cart Assembly-1" uid="Cart Assembly-1" entityUid="Cart Assembly" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 -0.03179097379800748</Translation>
+</Transform>
+<Instance name="socket head cap screw_iso-5" uid="socket head cap screw_iso-5" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.18444912490952664 0.25434787058507236 0.13921916621891739</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-6" uid="socket head cap screw_iso-6" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.16044912490952665 0.25434787058507236 0.13921916621891739</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-9" uid="socket head cap screw_iso-9" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.11844912490952667 0.25434787058507236 0.13921916621891739</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-8" uid="socket head cap screw_iso-8" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.14244912490952666 0.25434787058507236 0.13921916621891739</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-4" uid="socket head cap screw_iso-4" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.16044912490952665 0.25434787058507236 0.15721916621891741</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-11" uid="socket head cap screw_iso-11" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>1 -1.3639195569141048e-16 2.3623779700120352e-16 1.3639195569141048e-16 -0.49999999999999195 -0.86602540378444326 2.3623779700120352e-16 0.86602540378444326 -0.49999999999999195</Rotation>
+<Translation>0.1054491249095266 0.27084787058507254 0.16120954727568398</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-10" uid="socket head cap screw_iso-10" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>1 1.3639195569140942e-16 2.3623779700120549e-16 -1.3639195569140939e-16 -0.50000000000000411 0.86602540378443649 2.3623779700120544e-16 -0.86602540378443649 -0.50000000000000411</Rotation>
+<Translation>0.1054491249095266 0.27084787058507231 0.1352287851621507</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-7" uid="socket head cap screw_iso-7" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.11844912490952667 0.25434787058507236 0.15721916621891741</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-3" uid="socket head cap screw_iso-3" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.1054491249095266 0.29334787058507239 0.14821916621891734</Translation>
+</Transform>
+</Instance>
+<Instance name="Enkoder YUMO E6B2-CWZ6C.stp-1" uid="Enkoder YUMO E6B2-CWZ6C.stp-1" entityUid="Enkoder YUMO E6B2-CWZ6C.stp" rigid="true">
+<Transform>
+<Rotation>0 3.1056272793654632e-16 -1 0.86602540378443649 -0.50000000000000366 0 -0.50000000000000366 -0.8660254037844366 -3.1700179540839457e-16</Rotation>
+<Translation>0.10864912490952659 0.27834787058507288 0.14821916621891662</Translation>
+</Transform>
+<Instance name="Lozysko 696.stp-1" uid="Lozysko 696.stp-1" grounded="true" entityUid="Lozysko 696.stp" rigid="true">
+<Transform>
+<Rotation>0 0 0.99999999999999989 0 1 0 -1 0 0</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="bearing_696-zz_1_05.stp-1" uid="bearing_696-zz_1_05.stp-1" grounded="true" entityUid="bearing_696-zz_1_05.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="bearing_696-zz_1_04.stp-1" uid="bearing_696-zz_1_04.stp-1" grounded="true" entityUid="bearing_696-zz_1_04.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="bearing_696-zz_1_03.stp-1" uid="bearing_696-zz_1_03.stp-1" grounded="true" entityUid="bearing_696-zz_1_03.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="bearing_696-zz_1_02.stp-1" uid="bearing_696-zz_1_02.stp-1" grounded="true" entityUid="bearing_696-zz_1_02.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="bearing_696-zz_1_01.stp-1" uid="bearing_696-zz_1_01.stp-1" grounded="true" entityUid="bearing_696-zz_1_01.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Enkoder YUMO E6B2-CWZ6C.stp-1" uid="Enkoder YUMO E6B2-CWZ6C.stp-1" grounded="true" entityUid="Enkoder YUMO E6B2-CWZ6C.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Pierscien na wale enkodera YUMO.stp-1" uid="Pierscien na wale enkodera YUMO.stp-1" grounded="true" entityUid="Pierscien na wale enkodera YUMO.stp*:*Default">
+<Transform>
+<Rotation>-0.78217503693007362 -0.62305875453558779 0 0.62305875453558779 -0.78217503693007384 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="socket head cap screw_iso-1" uid="socket head cap screw_iso-1" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.14244912490952666 0.25434787058507236 0.15721916621891741</Translation>
+</Transform>
+</Instance>
+<Instance name="9338T51_Mounted Linear Ball Bearing-2" uid="9338T51_Mounted Linear Ball Bearing-2" entityUid="9338T51_Mounted Linear Ball Bearing*:*9338T51">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.17244912490952663 0.23234787058507239 0.14821916621891737</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-2" uid="socket head cap screw_iso-2" entityUid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N">
+<Transform>
+<Rotation>0 0.83716910433122238 -0.54694413860398872 -1 0 0 0 0.54694413860398872 0.83716910433122238</Rotation>
+<Translation>0.18444912490952664 0.25434787058507236 0.15721916621891741</Translation>
+</Transform>
+</Instance>
+<Instance name="9338T51_Mounted Linear Ball Bearing-1" uid="9338T51_Mounted Linear Ball Bearing-1" entityUid="9338T51_Mounted Linear Ball Bearing*:*9338T51">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.13044912490952662 0.23234787058507239 0.1482191662189174</Translation>
+</Transform>
+</Instance>
+<Instance name="sensor mount-1" uid="sensor mount-1" entityUid="sensor mount*:*Default">
+<Transform>
+<Rotation>1.5749186466746987e-16 0 1 0 1 0 -1 0 1.5749186466746987e-16</Rotation>
+<Translation>0.15144912490952661 0.2433478705850724 0.14821916621891734</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="3693N11_High-Strength HTD Timing Belt Idler Pulley-1" uid="3693N11_High-Strength HTD Timing Belt Idler Pulley-1" entityUid="3693N11_High-Strength HTD Timing Belt Idler Pulley*:*3693N11">
+<Transform>
+<Rotation>1.960535809640109e-07 -2.2666351387623537e-16 0.9999999999999809 0 1 2.2666351387623892e-16 -0.9999999999999809 0 1.960535809640109e-07</Rotation>
+<Translation>0.15144912824243856 0.24033787058507106 -0.0081674193934684093</Translation>
+</Transform>
+</Instance>
+<Instance name="Pendulum Assem-3" uid="Pendulum Assem-3" entityUid="Pendulum Assem" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.087649124909526602 0.27834784686469188 0.11635850053911238</Translation>
+</Transform>
+<Instance name="pend coupler-1" uid="pend coupler-1" grounded="true" entityUid="pend coupler*:*Default">
+<Transform>
+<Rotation>-2.7763781533341439e-16 0 0.99999999999999978 0 -0.99999999999999989 0 0.99999999999999989 0 2.7763781533341434e-16</Rotation>
+<Translation>0 2.3720381381320266e-08 6.9691881796757338e-05</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head cross recess screw_iso-2" uid="pan head cross recess screw_iso-2" entityUid="pan head cross recess screw_iso*:*ISO 7045 - M3 x 6 - Z - 6N">
+<Transform>
+<Rotation>2.8056539781239087e-16 0.68434489117148734 0.7291584669517901 2.2302038688026826e-16 0.72915846695179032 -0.68434489117148745 -1 3.5659409453048241e-16 0</Rotation>
+<Translation>-0.0075000000000000067 2.3720381381320266e-08 0.010969691881796764</Translation>
+</Transform>
+</Instance>
+<Instance name="stick-1" uid="stick-1" entityUid="stick*:*Default">
+<Transform>
+<Rotation>0.035024282034638497 0 -0.99938646161930678 1.22514845490862e-16 -1 0 -0.99938646161930678 -1.2446640940133591e-16 -0.035024282034638504</Rotation>
+<Translation>-0.0074999999999999928 0.091500023720381629 6.9691881796771216e-05</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head cross recess screw_iso-1" uid="pan head cross recess screw_iso-1" entityUid="pan head cross recess screw_iso*:*ISO 7045 - M3 x 6 - Z - 6N">
+<Transform>
+<Rotation>-2.7762206305778194e-16 -0.98027213324748119 0.19765258606563227 -3.5811197757196211e-16 -0.1976525860656323 -0.9802721332474813 0.99999999999999989 -3.4296025221147719e-16 -2.9620403352303981e-16</Rotation>
+<Translation>-0.0074999999999999928 2.3720381436831417e-08 -0.010830308118203236</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head cross recess screw_iso-3" uid="pan head cross recess screw_iso-3" entityUid="pan head cross recess screw_iso*:*ISO 7045 - M3 x 4 - Z - 4N">
+<Transform>
+<Rotation>0 -0.90007542234147531 0.43573413235230363 -1 0 1.599198204416119e-16 -1.7911019889460533e-16 -0.43573413235230357 -0.90007542234147531</Rotation>
+<Translation>0.013999999999999999 0.007400023720381399 6.9691881796785093e-05</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head cross recess screw_iso-4" uid="pan head cross recess screw_iso-4" entityUid="pan head cross recess screw_iso*:*ISO 7045 - M3 x 4 - Z - 4N">
+<Transform>
+<Rotation>0 -0.61559539105964955 -0.78806237983177252 -1.0000000000000002 -1.5298092653770468e-16 1.1872013788716274e-16 -1.9483113039564515e-16 0.78806237983177274 -0.61559539105964955</Rotation>
+<Translation>0.0059999999999999915 0.0074000237203814545 6.9691881796757338e-05</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric131">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Body Assembly-1</Uid>
+<Uid>End motor Assembly-1</Uid>
+<Uid>37d-gearmotor-50-70-encoder.step-1</Uid>
+</InstancePath>
+<Position>0.019925000000000026 -0.0070000000000000062 0.041925000000000018</Position>
+<Axis>-4.6259292692714908e-15 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>3764N107_High-Strength Gt Timing Belt Pulley-1</Uid>
+</InstancePath>
+<Position>0 0 0.0071350000000000025</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Body Assembly-1</Uid>
+<Uid>End motor Assembly-1</Uid>
+<Uid>37d-gearmotor-50-70-encoder.step-1</Uid>
+</InstancePath>
+<Position>0.019924999999999971 0 0.026425000000000032</Position>
+<Axis>3.4914813388431353e-15 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3764N107_High-Strength Gt Timing Belt Pulley-1</Uid>
+</InstancePath>
+<Position>0 -0.0031749999999999834 0.0071350000000000025</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric135">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Body Assembly-1</Uid>
+<Uid>8mm Rod-2</Uid>
+</InstancePath>
+<Position>0 0 0.29999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cart Assembly-1</Uid>
+<Uid>9338T51_Mounted Linear Ball Bearing-1</Uid>
+</InstancePath>
+<Position>0 0 -0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric136">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Body Assembly-1</Uid>
+<Uid>8mm Rod-1</Uid>
+</InstancePath>
+<Position>0 0 0.29999999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cart Assembly-1</Uid>
+<Uid>9338T51_Mounted Linear Ball Bearing-2</Uid>
+</InstancePath>
+<Position>0 0 -0.014999999999999999</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric137">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Body Assembly-1</Uid>
+<Uid>End 1 Assembly-1</Uid>
+<Uid>socket head cap screw_iso-1</Uid>
+</InstancePath>
+<Position>-0.031749999999999959 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>3693N11_High-Strength HTD Timing Belt Idler Pulley-1</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999767</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3693N11_High-Strength HTD Timing Belt Idler Pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0075000000000000067 -0.0050000000000000322</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Body Assembly-1</Uid>
+<Uid>End 1 Assembly-1</Uid>
+<Uid>pulley stand-1</Uid>
+</InstancePath>
+<Position>-0.0054999999999999771 0.015500000000000014 0.015000000000000005</Position>
+<Axis>1.0000000000000002 1.301042734243828e-16 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric138">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Cart Assembly-1</Uid>
+<Uid>Enkoder YUMO E6B2-CWZ6C.stp-1</Uid>
+<Uid>Enkoder YUMO E6B2-CWZ6C.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Pendulum Assem-3</Uid>
+<Uid>pend coupler-1</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pendulum Assem-3</Uid>
+<Uid>pend coupler-1</Uid>
+</InstancePath>
+<Position>0 0 0.01999999999999999</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Cart Assembly-1</Uid>
+<Uid>Enkoder YUMO E6B2-CWZ6C.stp-1</Uid>
+<Uid>Enkoder YUMO E6B2-CWZ6C.stp-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Distance>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Body Assembly" uid="Body Assembly" version="107">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Body Assembly.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="End motor Assembly" uid="End motor Assembly" version="116">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="End motor Assembly.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="End 1 Assembly" uid="End 1 Assembly" version="107">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="End 1 Assembly.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Cart Assembly" uid="Cart Assembly" version="109">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Cart Assembly.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Enkoder YUMO E6B2-CWZ6C.stp" uid="Enkoder YUMO E6B2-CWZ6C.stp" version="103">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Enkoder YUMO E6B2-CWZ6C.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Lozysko 696.stp" uid="Lozysko 696.stp" version="103">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Lozysko 696.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Pendulum Assem" uid="Pendulum Assem" version="123">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Pendulum Assem.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="3693N11_High-Strength HTD Timing Belt Idler Pulley" uid="3693N11_High-Strength HTD Timing Belt Idler Pulley*:*3693N11" version="297">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3693N11_High-Strength HTD Timing Belt Idler Pulley.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0027265351743867719</Mass>
+<CenterOfMass>0 0 1.1513210874849634e-07</CenterOfMass>
+<Inertia>6.0119185261531435e-08 6.0119185261531408e-08 6.634174786058498e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="3693N11_High-Strength HTD Timing Belt Idler Pulley_3693N11_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="3764N107_High-Strength Gt Timing Belt Pulley" uid="3764N107_High-Strength Gt Timing Belt Pulley*:*3764N107" version="1186">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3764N107_High-Strength Gt Timing Belt Pulley.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0051163044626633012</Mass>
+<CenterOfMass>-2.6906556605943989e-05 -2.6880192965547204e-05 0.0012797471734114362</CenterOfMass>
+<Inertia>1.8846712617449638e-07 1.884668131441064e-07 1.8653883615578954e-07 4.0057025889412478e-10 4.0047192652222869e-10 3.6651221822610113e-12</Inertia>
+</MassProperties>
+<GeometryFile name="3764N107_High-Strength Gt Timing Belt Pulley_3764N107_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="37d-gearmotor-50-70-encoder.step" uid="37d-gearmotor-50-70-encoder.step*:*Default" version="119">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="37d-gearmotor-50-70-encoder.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.060609876270561212</Mass>
+<CenterOfMass>0.019951583434876401 -0.00019276857504631637 -0.0095287291555471425</CenterOfMass>
+<Inertia>2.632080932352224e-05 2.6252902078760674e-05 9.4998028709485504e-06 2.5659180115241036e-07 4.7029846473075904e-08 2.2664704497770144e-08</Inertia>
+</MassProperties>
+<GeometryFile name="37d-gearmotor-50-70-encoder.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="8mm Rod" uid="8mm Rod*:*Default" version="144">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="8mm Rod.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.11760923199345594</Mass>
+<CenterOfMass>0 0 0.14999999999999999</CenterOfMass>
+<Inertia>0.00088235997982513139 0.00088235997982513139 9.407856703373952e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="8mm Rod_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.89803921568627454" b="0.89803921568627454" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.89803921568627454" b="0.89803921568627454" a="1"/>
+<Specular r="0.62862745098039219" g="0.62862745098039219" b="0.62862745098039219" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="9338T51_Mounted Linear Ball Bearing" uid="9338T51_Mounted Linear Ball Bearing*:*9338T51" version="576">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="9338T51_Mounted Linear Ball Bearing.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.04355437919095842</Mass>
+<CenterOfMass>-7.4709680778134722e-10 0.00089617277968225624 1.0366648443495785e-08</CenterOfMass>
+<Inertia>4.7961367309224864e-06 6.7798449584281384e-06 5.5246045252107899e-06 1.112622098260759e-11 1.0675612047054963e-12 -6.1907285357612803e-12</Inertia>
+</MassProperties>
+<GeometryFile name="9338T51_Mounted Linear Ball Bearing_9338T51_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Belt1-1" uid="Belt1-1*:*Default" version="459">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Belt1-1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0053976515459186946</Mass>
+<CenterOfMass>-0.15716597566611987 0.24033995790770221 -4.8965259439951531e-10</CenterOfMass>
+<Inertia>2.1804587270387025e-07 5.5115010232023653e-05 5.5300670199219685e-05 0 1.9752652594370822e-15 1.0114428792560658e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Belt1-1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Specular r="0.14901960784313725" g="0.14901960784313725" b="0.14901960784313725" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.80000001192092896</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Enkoder YUMO E6B2-CWZ6C.stp" uid="Enkoder YUMO E6B2-CWZ6C.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Enkoder YUMO E6B2-CWZ6C.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.051037165019405868</Mass>
+<CenterOfMass>-1.6146210092587513e-05 -0.00048588733128024874 -0.023966655474818677</CenterOfMass>
+<Inertia>1.2810336808510052e-05 1.2010070442375689e-05 1.0725813067895161e-05 -2.9169045684458788e-07 -5.8005750154191325e-09 -3.1475209156685894e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Enkoder YUMO E6B2-CWZ6C.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pierscien na wale enkodera YUMO.stp" uid="Pierscien na wale enkodera YUMO.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Pierscien na wale enkodera YUMO.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.0102872769292568e-05</Mass>
+<CenterOfMass>0 0.0013991949575378547 0.0002499999999999999</CenterOfMass>
+<Inertia>2.5200252752479626e-11 6.7751536312045233e-11 9.2530836032470866e-11 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Pierscien na wale enkodera YUMO.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.73725490196078436" g="0.77647058823529413" b="0.80000000000000004" a="1"/>
+<Diffuse r="0.73725490196078436" g="0.77647058823529413" b="0.80000000000000004" a="1"/>
+<Specular r="0.36862745098039218" g="0.38823529411764707" b="0.40000000000000002" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SK8 SC8UU LINEAR RAIL ORIGINAL" uid="SK8 SC8UU LINEAR RAIL ORIGINAL*:*Valor predeterminado" version="357">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SK8 SC8UU LINEAR RAIL ORIGINAL.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.023419696402134916</Mass>
+<CenterOfMass>5.5572115457030332e-05 -0.0029549588398984413 0.0069499999986904377</CenterOfMass>
+<Inertia>2.7625985159681153e-06 1.8730088274739777e-06 3.8663857939640476e-06 0 0 -1.8452069482117188e-08</Inertia>
+</MassProperties>
+<GeometryFile name="SK8 SC8UU LINEAR RAIL ORIGINAL_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bearing_696-zz_1_01.stp" uid="bearing_696-zz_1_01.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bearing_696-zz_1_01.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00024856890971370753</Mass>
+<CenterOfMass>0.0025000000000000009 0 0</CenterOfMass>
+<Inertia>1.1933239090386507e-08 6.5546932024525719e-09 6.5546932024525719e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bearing_696-zz_1_01.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.34901960784313724" g="0.34901960784313724" b="0.34901960784313724" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bearing_696-zz_1_02.stp" uid="bearing_696-zz_1_02.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bearing_696-zz_1_02.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00012971812264163889</Mass>
+<CenterOfMass>0.0025000000000000001 0 0</CenterOfMass>
+<Inertia>1.7348791847190823e-09 1.1829933062048456e-09 1.1829933062048461e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bearing_696-zz_1_02.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.69803921568627447" b="0.69803921568627447" a="1"/>
+<Specular r="0.34901960784313724" g="0.34901960784313724" b="0.34901960784313724" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bearing_696-zz_1_03.stp" uid="bearing_696-zz_1_03.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bearing_696-zz_1_03.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>0 0 0 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bearing_696-zz_1_03.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.64313725490196072" g="0.67843137254901964" b="0.69803921568627447" a="1"/>
+<Diffuse r="0.64313725490196072" g="0.67843137254901964" b="0.69803921568627447" a="1"/>
+<Specular r="0.32156862745098036" g="0.33921568627450982" b="0.34901960784313724" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bearing_696-zz_1_04.stp" uid="bearing_696-zz_1_04.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bearing_696-zz_1_04.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.6297713106819832e-06</Mass>
+<CenterOfMass>0.00021221666717103355 0 0</CenterOfMass>
+<Inertia>2.2740411737049797e-10 1.1376221525338868e-10 1.1376221525338871e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bearing_696-zz_1_04.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.68235294117647061" b="0.52156862745098043" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.68235294117647061" b="0.52156862745098043" a="1"/>
+<Specular r="0.34901960784313724" g="0.3411764705882353" b="0.26078431372549021" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bearing_696-zz_1_05.stp" uid="bearing_696-zz_1_05.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bearing_696-zz_1_05.stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.6297713106819832e-06</Mass>
+<CenterOfMass>0.0047877833328289678 0 0</CenterOfMass>
+<Inertia>2.2740411737049797e-10 1.1376221525338866e-10 1.1376221525338871e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bearing_696-zz_1_05.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.69803921568627447" g="0.68235294117647061" b="0.52156862745098043" a="1"/>
+<Diffuse r="0.69803921568627447" g="0.68235294117647061" b="0.52156862745098043" a="1"/>
+<Specular r="0.34901960784313724" g="0.3411764705882353" b="0.26078431372549021" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hex thin nut chamfered gradeab_iso1" uid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M3 - N" version="1186">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hex thin nut chamfered gradeab_iso1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00029466261510370908</Mass>
+<CenterOfMass>0 1.3325287688436206e-09 -0.00089882733992489557</CenterOfMass>
+<Inertia>8.1203256678770955e-10 8.1202638658406748e-10 1.4703039975053391e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="hex thin nut chamfered gradeab_iso1_ISO - 4035 - M3 - N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hex thin nut chamfered gradeab_iso1" uid="hex thin nut chamfered gradeab_iso1*:*ISO - 4035 - M5 - N" version="1195">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hex thin nut chamfered gradeab_iso1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00085888173106329229</Mass>
+<CenterOfMass>0 2.0645878866669619e-09 -0.0013483880336947714</CenterOfMass>
+<Inertia>5.2827730616495068e-09 5.2827324720046686e-09 9.5654795863353822e-09 0 0 -7.4877038511874513e-16</Inertia>
+</MassProperties>
+<GeometryFile name="hex thin nut chamfered gradeab_iso1_ISO - 4035 - M5 - N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="motor mount" uid="motor mount*:*Default" version="300">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="motor mount.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.028593439964242431</Mass>
+<CenterOfMass>-1.7617347318637014e-06 -0.017756176230184079 -0.00036127347104929962</CenterOfMass>
+<Inertia>6.8114498610269179e-06 4.5927449979476458e-06 9.0033851787738657e-06 -8.9832506318930383e-07 -9.5660051201802992e-10 -7.4250639836451911e-10</Inertia>
+</MassProperties>
+<GeometryFile name="motor mount_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Diffuse r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Specular r="0.076862745098039212" g="0.076862745098039212" b="0.076862745098039212" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pan head cross recess screw_iso" uid="pan head cross recess screw_iso*:*ISO 7045 - M3 x 4 - Z - 4N" version="1451">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pan head cross recess screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.3223273626892818e-05</Mass>
+<CenterOfMass>0.0025874938814023723 1.0430921465703912e-14 -1.825060043873952e-12</CenterOfMass>
+<Inertia>2.0751647287930323e-10 3.0777446034739479e-10 3.0777446034739479e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pan head cross recess screw_iso_ISO 7045 - M3 x 4 - Z - 4N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pan head cross recess screw_iso" uid="pan head cross recess screw_iso*:*ISO 7045 - M3 x 6 - Z - 6N" version="1444">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pan head cross recess screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.7360437342345204e-05</Mass>
+<CenterOfMass>0.0033662812477213539 1.434222793803124e-13 -5.1027869980934402e-12</CenterOfMass>
+<Inertia>2.2342078550708301e-10 5.9487387114846098e-10 5.9487387114846098e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pan head cross recess screw_iso_ISO 7045 - M3 x 6 - Z - 6N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pend coupler" uid="pend coupler*:*Default" version="184">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pend coupler.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0052207407283549551</Mass>
+<CenterOfMass>1.007974309557073e-08 3.5484552003187735e-05 -0.0034223176107826036</CenterOfMass>
+<Inertia>4.6998275963628462e-07 4.7594441449476474e-07 1.5956191595262274e-07 -2.4838902264723966e-09 -1.9910069803126351e-14 1.5914898965471177e-13</Inertia>
+</MassProperties>
+<GeometryFile name="pend coupler_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Diffuse r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Specular r="0.076862745098039212" g="0.076862745098039212" b="0.076862745098039212" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pulley stand" uid="pulley stand*:*Default" version="205">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pulley stand.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.012134987522815551</Mass>
+<CenterOfMass>0 0.012342302560582052 0.0074999999999999997</CenterOfMass>
+<Inertia>1.3480870783258148e-06 1.2288890512768936e-06 2.1261401962222441e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pulley stand_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Diffuse r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Specular r="0.076862745098039212" g="0.076862745098039212" b="0.076862745098039212" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="sensor mount" uid="sensor mount*:*Default" version="458">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="sensor mount.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.03006906839080585</Mass>
+<CenterOfMass>0 0.010388647968161266 -0.011622771985990243</CenterOfMass>
+<Inertia>2.5840267811668661e-05 2.3169231034069735e-05 7.7829790982334085e-06 5.5511559352769207e-06 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="sensor mount_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Diffuse r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Specular r="0.076862745098039212" g="0.076862745098039212" b="0.076862745098039212" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 10 - 10N" version="1386">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0001329049728039331</Mass>
+<CenterOfMass>0.0049756850193129424 0 0</CenterOfMass>
+<Inertia>3.4043760080429829e-10 2.1419081159047008e-09 2.1419081159047008e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso_ISO 4762 M3 x 10 - 10N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 16 - 16N" version="1467">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00017531647362738768</Mass>
+<CenterOfMass>0.0076307223429533172 0 0</CenterOfMass>
+<Inertia>3.8815053923067718e-10 6.166061908925294e-09 6.166061908925294e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso_ISO 4762 M3 x 16 - 16N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 25 - 18N" version="1446">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486258346</Mass>
+<CenterOfMass>0.011842898249810278 0 0</CenterOfMass>
+<Inertia>4.5971994687027486e-10 1.8314270970826284e-08 1.8314270970826284e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso_ISO 4762 M3 x 25 - 18N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M5 x 10 - 10N" version="1374">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00043713623645321565</Mass>
+<CenterOfMass>0.0059300271587315757 0 0</CenterOfMass>
+<Inertia>3.0724223881982134e-09 9.3649640200189966e-09 9.3649640200189966e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso_ISO 4762 M5 x 10 - 10N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M5 x 30 - 22N" version="1311">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0008298353181519461</Mass>
+<CenterOfMass>0.014919160990324781 0 0</CenterOfMass>
+<Inertia>4.2996070185067609e-09 9.7717379966607926e-08 9.7717379966607926e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso_ISO 4762 M5 x 30 - 22N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="stand1" uid="stand1*:*Default" version="202">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="stand1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.019488585241426784</Mass>
+<CenterOfMass>0.012930845228629913 0.0030501227669028383 -0.026904308829294489</CenterOfMass>
+<Inertia>5.0838487605543189e-06 1.3632174484139674e-05 8.6653492375896692e-06 5.3191178417288522e-09 -2.8639225171119461e-06 4.27049724348934e-09</Inertia>
+</MassProperties>
+<GeometryFile name="stand1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Diffuse r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Specular r="0.076862745098039212" g="0.076862745098039212" b="0.076862745098039212" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="stand2" uid="stand2*:*Default" version="291">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="stand2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.013851762117466963</Mass>
+<CenterOfMass>0 0.0030568640424738771 -0.0032739877676440762</CenterOfMass>
+<Inertia>1.2448618206687606e-06 6.8595796266045892e-06 5.6983213361236757e-06 2.4760641046069641e-09 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="stand2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Diffuse r="0.10980392156862745" g="0.10980392156862745" b="0.10980392156862745" a="1"/>
+<Specular r="0.076862745098039212" g="0.076862745098039212" b="0.076862745098039212" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="stick" uid="stick*:*Default" version="109">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="stick.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.015286675693102578</Mass>
+<CenterOfMass>0 0.050000000000000003 0</CenterOfMass>
+<Inertia>1.2715584366622516e-05 4.7703372276764826e-08 1.2715584366622516e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="stick_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.89803921568627454" b="0.89803921568627454" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.89803921568627454" b="0.89803921568627454" a="1"/>
+<Specular r="0.62862745098039219" g="0.62862745098039219" b="0.62862745098039219" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
