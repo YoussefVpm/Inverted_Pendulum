@@ -28,6 +28,11 @@ This project demonstrate the design and an simulation of an inverted pendulum on
 A report of this project is well explained written in the IEEE conference format, consult it for more litterature explanation
 
 # How to run the session
+
+Current update folder
+```
+For Matlab V3
+```
 * Downlaod the zip file containing all the files from Github
 * Open the matlab live script (IP.mlx) and run all the sections
 * Open the Simulink file IP.slx, set the ref positionon the cart
