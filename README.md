@@ -40,6 +40,6 @@ For Matlab V3
 
 # Demo
 
-![](InvertedPend.mp4)
+![](InvertedPend.gif)
 
 # Reference
