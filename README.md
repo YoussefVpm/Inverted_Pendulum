@@ -24,6 +24,16 @@
 
 This project demonstrate the design and an simulation of an inverted pendulum on cart whch can balance itself due to external disturbance. The approach used here is by using the blocks of [simscape](https://www.mathworks.com/products/simscape.html) library in [MATLAB/Simulink](https://www.mathworks.com/products/simulink.html), which consist of actual components representing the real world.
 
+## Equation of motion
+The dynamic equation of motion of the Inverted pendulum including motor dynamics is calculated as;
+
+$$
+\left(M + m + \frac{J_m}{r^2}\right)\ddot{x}(t) + \left(b + \frac{b_m}{r^2} + \frac{K_bK_t}{r^2R}\right)\dot{x}(t) + ml\ddot{\theta}\\ = \left(\frac{K_t}{r^2R}\right)V_m(t)
+$$
+
+$$(I + ml^2)\ddot{\theta} + ml\ddot{x} - mgl\theta = 0$$
+
+
 # Report
 A report of this project is well explained written in the IEEE conference format, consult it for more litterature explanation
 
