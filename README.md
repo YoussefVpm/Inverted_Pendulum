@@ -5,7 +5,7 @@
 <div align="center"><h1 align="center">SELF BALANCING INVERTED PENDULUM</h1></div>
 
 
-<i>This project involves designing and modelling of a Self balancing Inverted pendulum on cart using MATLAB/Simulink, Using a popular library called "SIMSCAPE". Inverted Pendulum is a system very known and used in Academia to teach Control Theory to have fundamental knowlegde.</i>
+<i>This project involves designing and modelling of a Self balancing Inverted pendulum on cart using MATLAB/Simulink, Using a popular library called "SIMSCAPE". Inverted Pendulum is a system very known and used in Academia to teach Control Theory to have fundamental knowlegde. As the nature of an inverted pendulum is nonlinear unstable system, many problems arises in order to control and stabilize it. This can be due to constraints including friction, cart rail limitation, saturated control signals. Problems then involved in most literature for an inverted pendulum system is swing up and stabilization</i>
 
 ---
 
