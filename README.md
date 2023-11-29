@@ -57,5 +57,6 @@ For Matlab V3
 . International Journal of Nonlinear Sciences and Numerical Simulation, 18(6), 525-539. https://doi.org/10.1515/ijnsns-2017-0040
 
 - E. Susanto, A. Surya Wibowo and E. Ghiffary Rachman, "Fuzzy Swing Up Control and Optimal State Feedback Stabilization for Self-Erecting Inverted Pendulum," in IEEE Access, vol. 8, pp. 6496-6504, 2020, doi: 10.1109/ACCESS.2019.2963399.
+- https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&si=bgAPNaTIq2Xh-kHw
 
 - https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
